@@ -1,2 +1,3 @@
-打分函数
-ab剪枝
+scoring function
+alpha-beta pruning
+eazy_to_play
